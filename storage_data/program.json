@@ -1,0 +1,259 @@
+{
+    "programs": [
+        {
+            "id": "a89d277c-3481-464c-898a-d7709a28c86a",
+            "tenantID": "9d7ec228-8b27-402f-80d3-35857ee1a9aa",
+            "name": "Skull Mountain",
+            "channel": "ECOMM",
+            "currency": "USD",
+            "defaultLanguage": "en-us",
+            "displayInterestRateBPS": 0,
+            "policies": {
+                "application": {
+                    "tof": {
+                        "processors": [
+                            "DECISION"
+                        ]
+                    }
+                },
+                "eligibility": {
+                    "country": "US",
+                    "regions": [
+                        "AL",
+                        "AK",
+                        "AZ",
+                        "AR",
+                        "CA",
+                        "CO",
+                        "CT",
+                        "DE",
+                        "FL",
+                        "GA",
+                        "HI",
+                        "ID",
+                        "IL",
+                        "IN",
+                        "IA",
+                        "KS",
+                        "KY",
+                        "LA",
+                        "ME",
+                        "MD",
+                        "MA",
+                        "MI",
+                        "MN",
+                        "MS",
+                        "MO",
+                        "MT",
+                        "NE",
+                        "NV",
+                        "NH",
+                        "NJ",
+                        "NM",
+                        "NY",
+                        "NC",
+                        "ND",
+                        "OH",
+                        "OK",
+                        "OR",
+                        "PA",
+                        "RI",
+                        "SC",
+                        "SD",
+                        "TN",
+                        "TX",
+                        "UT",
+                        "VT",
+                        "VA",
+                        "WA",
+                        "WV",
+                        "WI",
+                        "WY",
+                        "DC"
+                    ],
+                    "buyerStatuses": [
+                        "ACTIVE",
+                        "INSOLVENT"
+                    ]
+                },
+                "transaction": {
+                    "excludeFees": false,
+                    "paymentPerFundingEvent": false,
+                    "supportsMultipleMerchantFunding": false
+                }
+            },
+            "createdAt": "2021-12-20T16:24:57.04744Z",
+            "deletedAt": null
+        },
+        {
+            "id": "bef5fa23-7c5d-4ff8-be9f-3690fa6bd445",
+            "tenantID": "3b6cb97b-b682-452b-be08-14208f9c8c4a",
+            "name": "Raspberry",
+            "channel": "ECOMM",
+            "currency": "GBP",
+            "defaultLanguage": "en-uk",
+            "displayInterestRateBPS": 0,
+            "policies": {
+                "application": {
+                    "tof": {
+                        "processors": [
+                            "DECISION"
+                        ]
+                    }
+                },
+                "eligibility": {
+                    "country": "US",
+                    "regions": [
+                        "AL",
+                        "AK",
+                        "AZ",
+                        "AR",
+                        "CA",
+                        "CO",
+                        "CT",
+                        "DE",
+                        "FL",
+                        "GA",
+                        "HI",
+                        "ID",
+                        "IL",
+                        "IN",
+                        "IA",
+                        "KS",
+                        "KY",
+                        "LA",
+                        "ME",
+                        "MD",
+                        "MA",
+                        "MI",
+                        "MN",
+                        "MS",
+                        "MO",
+                        "MT",
+                        "NE",
+                        "NV",
+                        "NH",
+                        "NJ",
+                        "NM",
+                        "NY",
+                        "NC",
+                        "ND",
+                        "OH",
+                        "OK",
+                        "OR",
+                        "PA",
+                        "RI",
+                        "SC",
+                        "SD",
+                        "TN",
+                        "TX",
+                        "UT",
+                        "VT",
+                        "VA",
+                        "WA",
+                        "WV",
+                        "WI",
+                        "WY",
+                        "DC"
+                    ],
+                    "buyerStatuses": [
+                        "ACTIVE",
+                        "INSOLVENT"
+                    ]
+                },
+                "transaction": {
+                    "excludeFees": false,
+                    "paymentPerFundingEvent": false,
+                    "supportsMultipleMerchantFunding": false
+                }
+            },
+            "createdAt": "2021-12-21T09:23:32.38572Z",
+            "deletedAt": null
+        },
+        {
+            "id": "7a913f6e-95fb-46bc-82b7-e2cf5fd091c8",
+            "tenantID": "90742ddb-2a07-4da7-b568-eecbff8fc12e",
+            "name": "Butterfly",
+            "channel": "ECOMM",
+            "currency": "CAD",
+            "defaultLanguage": "en-ca",
+            "displayInterestRateBPS": 0,
+            "policies": {
+                "application": {
+                    "tof": {
+                        "processors": [
+                            "DECISION"
+                        ]
+                    }
+                },
+                "eligibility": {
+                    "country": "US",
+                    "regions": [
+                        "AL",
+                        "AK",
+                        "AZ",
+                        "AR",
+                        "CA",
+                        "CO",
+                        "CT",
+                        "DE",
+                        "FL",
+                        "GA",
+                        "HI",
+                        "ID",
+                        "IL",
+                        "IN",
+                        "IA",
+                        "KS",
+                        "KY",
+                        "LA",
+                        "ME",
+                        "MD",
+                        "MA",
+                        "MI",
+                        "MN",
+                        "MS",
+                        "MO",
+                        "MT",
+                        "NE",
+                        "NV",
+                        "NH",
+                        "NJ",
+                        "NM",
+                        "NY",
+                        "NC",
+                        "ND",
+                        "OH",
+                        "OK",
+                        "OR",
+                        "PA",
+                        "RI",
+                        "SC",
+                        "SD",
+                        "TN",
+                        "TX",
+                        "UT",
+                        "VT",
+                        "VA",
+                        "WA",
+                        "WV",
+                        "WI",
+                        "WY",
+                        "DC"
+                    ],
+                    "buyerStatuses": [
+                        "ACTIVE",
+                        "INSOLVENT"
+                    ]
+                },
+                "transaction": {
+                    "excludeFees": false,
+                    "paymentPerFundingEvent": false,
+                    "supportsMultipleMerchantFunding": false
+                }
+            },
+            "createdAt": "2021-12-22T12:04:32.74324Z",
+            "deletedAt": null
+        }
+    ]
+}
